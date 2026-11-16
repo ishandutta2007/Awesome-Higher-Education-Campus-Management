@@ -2,7 +2,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
 <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?stlle=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Higher-Education-Campus-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Higher-Education-Campus-Management?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Higher-Education-Campus-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Higher-Education-Campus-Management?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Higher-Education-Campus-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Higher-Education-Campus-Management?style=flat-square&color=blue" alt="GitHub Forks"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Higher-Education-Campus-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.style=flat-square" alt="License"/></a>
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -87,9 +87,9 @@ The sector demonstrates a distinct **bimodal market structure**:
 
 ## 💻 Open-Source GitHub Projects & Self-Hosted SIS
 
-*Self-hosted student information systems, academic ERPs, and learning portals sorted in descending order by GitHub Stars.*
+*Self-hosted student information systems, academic ERPs, and learning portals sorted in descending order by GitHub_Stars.*
 
-| Project | Star Badge | Description |
+| Project | Stars_Badge | Description |
 |:---|:---:|:---|
 | **[Odoo Education](https://github.com/odoo/odoo)** | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | **Comprehensive enterprise management suite with dedicated education modules.** **LGPL-3.0**, Python/JavaScript/PostgreSQL. Covers student admission, enrollment registers, timetables, course structures, faculty management, and integrated accounting/payroll. Best for institutions seeking complete campus ERP unification. |
 | **[ERPNext Education Module](https://github.com/frappe/erpnext)** | [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | **Enterprise ERP ecosystem containing integrated higher education workflows.** **GPL-3.0**, Python/Frappe framework. Handles student onboarding, academic terms, programs, attendance tracking, fees, examinations, and fee collection linked directly to core General Ledger and procurement. |
@@ -133,7 +133,7 @@ Contributions are warmly welcome! We invite registrars, systems engineers, educa
 1. **Fork the Repository** to your own GitHub profile.
 2. **Review Formatting**: Follow existing table schemas.
    - For **SaaS platforms**: Include product name, official link, verified company scale, starting price tier, and specific free trial/tier day limits.
-   - For **Open-Source projects**: Include official repository link, white social star badge linked to `/stargazers`, and factual technical description.
+   - For **Open-Source projects**: Include official repository link, white social Stars_Badge linked to `/stargazers`, and factual technical description.
 3. **Submit a Pull Request (PR)** with a concise summary of the additions or updates.
 
 Please ensure all submissions adhere to neutral, factual assessments without promotional hyperbole.
@@ -154,3 +154,12 @@ Please ensure all submissions adhere to neutral, factual assessments without pro
 *Empowering academic institutions through transparent, accessible, and high-performance campus software.*
 
 </div>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Higher-Education-Campus-Management&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Higher-Education-Campus-Management_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Higher-Education-Campus-Management_growth.svg">
+  </picture>
+</a>
