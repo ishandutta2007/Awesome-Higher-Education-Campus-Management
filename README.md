@@ -1,6 +1,6 @@
 # Awesome-Higher-Education-Campus-Management
 
-# Top Higher Education & Campus Management Ecosystem
+## Top Higher Education & Campus Management Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Student Information Systems, Academic Administration & Self-Hosted Campus ERPs*  
